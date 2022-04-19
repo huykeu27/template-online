@@ -1,0 +1,103 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Rale;
+    line-height: 1.8;
+  }
+  html {
+    height: 100%;
+  }
+  body {
+    height: 100%;
+  }
+  
+  div {
+    display: block;
+  }
+  @font-face {
+    font-family: Rale;
+    src: url(./font/Raleway-VariableFont_wght.ttf);
+  }
+.work {
+    padding: 128px 16px;
+    text-align: center;
+  }
+  .work h3 {
+    margin: 10px 0px;
+  }
+  .work p {
+    margin: 15px 0px;
+  }
+  .work12 {
+    display: flex;
+    width: 49.999%;
+  }
+  .work12 div {
+    padding: 0 8px;
+    width: 49.999%;
+  }
+  .work12 div img {
+    width: 100%;
+  }
+  .work1234 {
+    display: flex;
+    width: 100%;
+  }
+  .work1234 {
+    padding: 8px 0px;
+  }
+  .work12 div:hover {
+    opacity: 0.8;
+  }
+  .our-skill {
+    padding: 64px 16px;
+    background: #f1f1f1;
+  }
+  .our-skill-content {
+    display: flex;
+    padding: 0 8px;
+    width: 100%;
+  }
+  .skill-left {
+    width: 49.9999%;
+    padding: 0px 8px;
+  }
+  .skill-left h3 {
+    margin: 10px 0px;
+  }
+  .skill-left p {
+    margin: 15px 0px;
+  }
+  .skill-right {
+    width: 49.9999%;
+  }
+  .skill-right p {
+    margin: 15px 0px;
+  }
+  .pt100 {
+    width: 100%;
+    height: 27.3px;
+    background: #9e9e9e;
+  }
+  .pt90 {
+    text-align: center;
+    color: white;
+    width: 90%;
+    height: 27.3px;
+    background: #616161;
+  }
+  .pt85 {
+    text-align: center;
+    color: white;
+    width: 85%;
+    height: 27.3px;
+    background: #616161;
+  }
+  .pt75 {
+    text-align: center;
+    color: white;
+    width: 75%;
+    height: 27.3px;
+    background: #616161;
+  }
