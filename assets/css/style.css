@@ -155,7 +155,7 @@ body {
 .slider__social i:hover {
   color: #fff;
 }
-.content__section {
+/* .content__section {
   padding: 100px 16px;
   text-align: center;
 }
@@ -414,12 +414,12 @@ body {
   margin-top: -15px;
   padding: 70px 0;
   background-color: red;
-}
+} */
 /* padding: 30px 0;
   background-color: #f1f1f1;
 } */
 
-.btn-primary {
+/* .btn-primary {
   font-size: 1rem;
   color: #fff;
 }
@@ -512,7 +512,7 @@ form {
 
 .footer__bottom a {
   color: #f1f1f1;
-}
+} */
 
 .toggle {
   display: none;
