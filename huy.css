@@ -1,0 +1,141 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Rale;
+  line-height: 1.8;
+}
+html {
+  height: 100%;
+}
+body {
+  height: 100%;
+}
+
+div {
+  display: block;
+}
+@font-face {
+  font-family: Rale;
+  src: url(./font/Raleway-VariableFont_wght.ttf);
+}
+.about {
+  text-align: center;
+  padding: 128px 16px;
+}
+.about p {
+  margin: 18px 0px;
+}
+.about h3 {
+  margin: 10px;
+}
+.about-content {
+  display: flex;
+}
+.about-data {
+  width: 24.9999%;
+  text-align: center;
+  padding: 0 8px;
+}
+.about-data p {
+  display: block;
+}
+.about-icon {
+  font-size: 64px;
+}
+.design {
+  padding: 0px 8px;
+  display: flex;
+  padding: 128px 16px;
+  background: #f1f1f1;
+}
+.design-left {
+  padding: 0px 8px;
+  width: 49.999%;
+}
+.design-left h3 {
+  margin: 10px 0px;
+  font-size: 24px;
+}
+.design-left p {
+  margin: 15px 0px;
+  font-size: 15px;
+}
+.design-left a {
+  background: black;
+  color: white;
+}
+.design-right {
+  width: 49.9999%;
+}
+.design-right img {
+  width: 100%;
+  border-radius: 8px;
+}
+.design-left p a:hover {
+  background: #ccc;
+  color: #000;
+}
+.team {
+  text-align: center;
+  padding: 128px 16px;
+}
+.team-content {
+  display: flex;
+  margin-top: 64px;
+}
+.people1 {
+  width: 49.9999%;
+  display: flex;
+}
+.people2 {
+  width: 49.99999%;
+  display: flex;
+}
+.people {
+  width: 49.9999%;
+  padding: 0px 8px;
+  box-shadow: 2px 2px 2px 2px #ccc;
+  margin-bottom: 10px;
+  text-align: start;
+}
+.people p {
+  padding: 0.15px 16px;
+}
+.people h3 {
+  padding: 0.15px 16px;
+}
+.people p button:hover {
+  background: #ccc;
+}
+.people img {
+  width: 100%;
+  filter: grayscale(70%);
+}
+.people h3 {
+  margin: 10px 0px;
+}
+.people p {
+  margin: 15px 0px;
+}
+.people-contact {
+  width: 100%;
+  border: none;
+  padding: 8px 16px;
+  background: #f1f1f1;
+}
+.comment {
+  padding: 64px 16px;
+  background: #616161;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+.comment div span {
+  font-size: 36px;
+}
+.comment div {
+  text-align: center;
+  color: #f1f1f1;
+  width: 24.999%;
+}
